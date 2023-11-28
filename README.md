@@ -20,3 +20,6 @@ Donut Charts: To show revenue distribution by source or department.
 Slicers and Filters: Allow users to filter data by date range, location, or other relevant parameters.
 Dashboard Creation: Build a dashboard with multiple visualizations and add slicers and filters for interactivity. This allows users to explore revenue data from different angles.
 
+
+![image](https://github.com/vishal8248862721/Hospitality-Revenue-Insights/assets/131672732/8ae67b24-a56a-4b6b-869e-710377d93692)
+
